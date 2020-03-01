@@ -1,6 +1,6 @@
 # Mining-Reddit-Instagram
 
-This repository contains two Jupyter Notebooks that allow mining of Reddit and Instagram content
+This repository contains two Jupyter Notebooks that allow mining of Reddit and Instagram content. Notebooks accompanying the following workshop: https://researchguides.baylor.edu/socialmedia
 
 ## (1) Mine Reddit Subgroups
 * Capture text and images by subreddit
